@@ -62,3 +62,4 @@ Você deve criar um sistema de busca semântica de documentos utilizando embeddi
 - Utilize bibliotecas como **transformers** para gerar embeddings.
 - Documente o processo de criação dos embeddings e armazenamento na vector store.
 - Demonstre a busca semântica com exemplos de consultas e resultados relevantes.
+
